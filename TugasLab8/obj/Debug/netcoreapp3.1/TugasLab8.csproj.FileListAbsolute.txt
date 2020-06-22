@@ -1,0 +1,13 @@
+I:\AMIKOM\sem 2\Pemrograman\TugasLab8\bin\Debug\netcoreapp3.1\TugasLab8.exe
+I:\AMIKOM\sem 2\Pemrograman\TugasLab8\bin\Debug\netcoreapp3.1\TugasLab8.deps.json
+I:\AMIKOM\sem 2\Pemrograman\TugasLab8\bin\Debug\netcoreapp3.1\TugasLab8.runtimeconfig.json
+I:\AMIKOM\sem 2\Pemrograman\TugasLab8\bin\Debug\netcoreapp3.1\TugasLab8.runtimeconfig.dev.json
+I:\AMIKOM\sem 2\Pemrograman\TugasLab8\bin\Debug\netcoreapp3.1\TugasLab8.dll
+I:\AMIKOM\sem 2\Pemrograman\TugasLab8\bin\Debug\netcoreapp3.1\TugasLab8.pdb
+I:\AMIKOM\sem 2\Pemrograman\TugasLab8\obj\Debug\netcoreapp3.1\TugasLab8.csprojAssemblyReference.cache
+I:\AMIKOM\sem 2\Pemrograman\TugasLab8\obj\Debug\netcoreapp3.1\TugasLab8.csproj.CoreCompileInputs.cache
+I:\AMIKOM\sem 2\Pemrograman\TugasLab8\obj\Debug\netcoreapp3.1\TugasLab8.AssemblyInfoInputs.cache
+I:\AMIKOM\sem 2\Pemrograman\TugasLab8\obj\Debug\netcoreapp3.1\TugasLab8.AssemblyInfo.cs
+I:\AMIKOM\sem 2\Pemrograman\TugasLab8\obj\Debug\netcoreapp3.1\TugasLab8.dll
+I:\AMIKOM\sem 2\Pemrograman\TugasLab8\obj\Debug\netcoreapp3.1\TugasLab8.pdb
+I:\AMIKOM\sem 2\Pemrograman\TugasLab8\obj\Debug\netcoreapp3.1\TugasLab8.genruntimeconfig.cache
